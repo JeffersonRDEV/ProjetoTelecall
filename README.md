@@ -1,2 +1,2 @@
 # ProjetoTelecall
- Um site para um empresa de front-end 
+ Um site para um empresa em Back-end
