@@ -1,0 +1,14 @@
+
+.hCor{
+    color: rgb(39, 28, 204)
+}
+
+body.dark .hCor {
+  
+    color: rgba(240, 247, 239, 0.952);
+  
+    }
+  
+  
+ 
+

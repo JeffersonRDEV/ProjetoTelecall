@@ -1,0 +1,19 @@
+    body{
+          background: #4682b4;
+          color: white;
+          text-align: center;
+        }
+        .table-bg{
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px 15px 0 0;
+        }
+
+        .box-search{
+            display: flex;
+            justify-content: center;
+            gap: .1%;
+        }
+        .table-spaced th,
+        .table-spaced td {
+        padding: 20px; /* Altere o valor conforme necessário */
+    }

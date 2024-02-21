@@ -1,0 +1,21 @@
+#responsive-image {
+    max-width: 100%;
+    height: auto;
+  }
+
+  #img {
+    display: block; /* Certifica-se de que a imagem seja exibida como bloco */
+    margin: 0 auto; /* Define margens automáticas para centralizar horizontalmente */
+    text-align: center; /* Centraliza horizontalmente em relação ao pai, se necessário */
+  }
+
+  .container {
+width: 50px;
+padding: 50px;
+  }
+
+ 
+  body{
+margin: 50px;
+padding: 50px;
+  }
